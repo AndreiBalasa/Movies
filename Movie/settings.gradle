@@ -1,0 +1,5 @@
+rootProject.name = 'MovieRentals'
+include 'movieRentals-client'
+include 'movieRentals-app'
+include 'movieRentals-common'
+
